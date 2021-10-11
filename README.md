@@ -19,7 +19,7 @@ https://www.loom.com/share/9cac00116afa4344beebe1b5d878817b
 ## Usage
 
 1. Highlight code for context
-2. (Mac) Cmd+Shift+P / (Windows) Ctrl+Shift+P
+2. (Mac) Cmd+Shift+P / (Windows) Ctrl+Shift+P, then select 'Code Predict'
 
 As seen in the demo, there are times that the code returned will be incomplete. This can be adjusted from within `extension.js` (the `max_tokens` parameter). Alternatively, you can simply re-select the code (cmd+a / ctrl+a) and re-run Code Predict.
 
