@@ -26,8 +26,10 @@ As seen in the demo, there are times that the code returned will be incomplete. 
 ## Support
 Log an issue if you need help with anything! 
 
-If you like Code Predict (and are using Brave) please consider setting a monthly tip, I greatly appreciate it!
+If you like Code Predict (and are using Brave) please consider setting a monthly BAT tip, I greatly appreciate it!
 
 I also accept and appreciate any other forms of crypto.
+
 ETH: 0xcb5512CC5A9d875e06604803b7E7c8D2c56Cb150
+
 SOL: 6kfob4TBtLjmoZEzzxwBQzLzupM2WhToeotZ8sBFtNyV
