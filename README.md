@@ -22,3 +22,8 @@ https://www.loom.com/share/9cac00116afa4344beebe1b5d878817b
 2. (Mac) Cmd+Shift+P / (Windows) Ctrl+Shift+P
 
 As seen in the demo, there are times that the code returned will be incomplete. This can be adjusted from within `extension.js` (the `max_tokens` parameter). Alternatively, you can simply re-select the code (cmd+a / ctrl+a) and re-run Code Predict.
+
+## Support
+Log an issue if you need help with anything! If you like Code Predict (and are using Brave) please consider tipping! I also accept and appreciate any other forms of crypto.
+ETH: 0xcb5512CC5A9d875e06604803b7E7c8D2c56Cb150
+SOL: 6kfob4TBtLjmoZEzzxwBQzLzupM2WhToeotZ8sBFtNyV
