@@ -12,7 +12,7 @@ https://www.loom.com/share/9cac00116afa4344beebe1b5d878817b
 2. Obtain API Key from OpenAI
 3. In `extension.js`, copy and paste your API key over 'YOUR-KEY', then save
 4. `npm install -g vsce`
-5. Run `vsce package`
+5. Run VSCE to build a package for yourself, `vsce package`
 6. From VS Code, select 'Extensions', then select 'Install from VSIX'
 7. Choose `.vsix` file that was created from step 5
 
